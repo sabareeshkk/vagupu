@@ -1,0 +1,17 @@
+{
+  "name": "vagupu",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.5",
+    "angular-messages": "^1.6.6",
+    "angular-ui-router": "^1.0.3",
+    "http-server": "^0.10.0"
+  }
+}
